@@ -4,7 +4,7 @@
   <name>my_package3</name>
   <version>0.0.0</version>
   <description>client libraries tutorials practice package</description>
-  <maintainer email="philip@todo.todo">philip</maintainer>
+  <maintainer email="philip@todo.todo">Philip Archer</maintainer>
   <license>Apache License 2.0</license>
 
   <test_depend>ament_copyright</test_depend>
